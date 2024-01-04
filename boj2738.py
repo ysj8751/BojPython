@@ -15,4 +15,3 @@ for i in range(N):
         result = A[i][j] + B[i][j]
         print(result, end=" ")
     print()
-    
